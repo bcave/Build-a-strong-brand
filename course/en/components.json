@@ -1,0 +1,5929 @@
+[
+  {
+    "_id": "5967383e1568f8e516392f99",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f98",
+    "__v": 0,
+    "body": "<p></p><p style=\"text-align: left;\">Let's explore what a brand is, and what makes a strong brand.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Let's look at:</p><ul><li style=\"text-align: left;\">The difference between a strong and weak brand</li><li style=\"text-align: left;\">How to keep a brand strong</li><li style=\"text-align: left;\">Which parts of your business need to be involved in branding</li></ul><p style=\"text-align: left;\"><br></p><div><div><p></p></div></div>",
+    "displayTitle": "",
+    "_refId": "58ebdb2c192f4e895e96add5",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "What makes a strong brand?",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5967383d1568f8e516392f85",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383d1568f8e516392f84",
+    "__v": 0,
+    "body": "<p>A company's brand is a series of promises made to customers about what they will deliver if the customer chooses them.&nbsp;</p><p><br></p><p>For example, online takeaway website Just Eat promises to 'make food discovery exciting for everyone'.</p><p><br></p><p>Customers will build up an impression of the Just Eat brand through every interaction - from landing on their website to reading about a friend's experience on Facebook. Customers will ultimately be the judge on a companies ability to deliver on their promises. &nbsp;</p><p><br></p><p>A strong brand will keep delivering on its promises and make customers feel so good that they come back again and again.</p><p><br></p><p>Simon Francis, founder of Flock Marketing Transformation, shares his thoughts on brands.<br></p>",
+    "_refId": "58f88478e1a7d0027e8dca76",
+    "displayTitle": "What is a brand?",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What is a brand?",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "5967383d1568f8e516392f86",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383d1568f8e516392f84",
+    "__v": 0,
+    "_refId": "594b9be6f382c1d37dc8765f",
+    "body": "",
+    "instruction": "",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222515112\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-1"
+  },
+  {
+    "_id": "5967383d1568f8e516392f82",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383d1568f8e516392f81",
+    "__v": 0,
+    "_refId": "5900528af06989ac6bf1a755",
+    "body": "<p style=\"text-align: left;\">Although branding might seem like it is obsessing over superficial details, &nbsp;it has a deep impact on customers and their willingness to part with their money for your products.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Urban Massage, an online professional home massage service turned a complete stranger into their brand evangelist.&nbsp;</p><p style=\"text-align: left;\"><br></p>",
+    "displayTitle": "How does branding help you to make sales?",
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598870eb7d86c20e2a40fb45",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p>The subconscious brain thinks:</p><ul><li>I feel achy. I'd love a massage<br></li></ul>",
+        "itemIndex": 0,
+        "_id": "59005294f06989ac6bf1a756",
+        "title": "Step 1: The trigger"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "598870ae7d86c20e2a40fb43"
+          }
+        },
+        "body": "<p>The subconscious brain thinks:&nbsp;</p><ul><li>I could use my favourite beauty booking website or check out Urban Massage, the website I saw advertised on the train. It looked quite good and since it focuses on massage only it might be able to offer me something better.&nbsp;<br></li></ul><p><br></p><p>The branding magic is:&nbsp;</p><ul><li>Urban Massage's name communicated their expertise in a specific niche. Their messages and images caught my attention, stayed in my memory.&nbsp;</li><li>This means that when I was ready to buy, their name popped into my head. Since the impression they left was positive (even though I can't remember the details of the poster), I look them through to the next phase of my journey by looking up their website.&nbsp;</li></ul>",
+        "_id": "590052e7f06989ac6bf1a757",
+        "itemIndex": 1,
+        "title": "Step 2: Initial consideration"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59886f5c7d86c20e2a40fb42"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5900535bf06989ac6bf1a758",
+        "title": "Step 3: Make a choice",
+        "body": "<p>My subconscious brain thinks:</p><ul><li>The generic beauty website had stretched photos, so maybe they are not very professional and a bit outdated. Maybe their techniques would also be outdated and the therapists would be unprofessional. The whole experience could be awkward!</li><li>But, Urban Massage looks fresh and clean. The therapist will probably be optimistic and have good hygiene. The therapist will probably be professional and positive like the smiling lady in the photo wearing a white therapist coat.</li></ul><p><br></p><p>The branding magic is:</p><ul><li>Urban massage's careful choice of words and images on the website evoked positive feelings and assumptions about their service. The clarity and consistency of their message made me trust them more on their promises.&nbsp;<br></li></ul>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59886f4b7d86c20e2a40fb41"
+          }
+        },
+        "body": "<p>My subconscious brain thinks:</p><ul><li>I feel like I'd have a good experience with Urban Massage. I feel like they will leave me feeling truly relaxed so I'm going to go with them.<br></li></ul><p><br></p><p>The branding magic is:</p><ul><li>The strong positive image which the brand created made me predict that I would be happier working with them.&nbsp;This is where feelings turn into hard cash!&nbsp;<br></li></ul>",
+        "_id": "59005435f06989ac6bf1a759",
+        "itemIndex": 3,
+        "title": "Step 4: Make an appointment"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59886f427d86c20e2a40fb40"
+          }
+        },
+        "body": "<p>Then I go ahead and try out their services, and have a massage in my home. &nbsp;It was an all-round good experience.</p><p>&nbsp;<br></p><p>My subconscious brain thinks:</p><ul><li>The therapist was professional, friendly and the experience was logistically easy. Urban Massage can be trusted to deliver on their promises. I'd use them again and recommend them to a friend.<br></li></ul>",
+        "title": "Step 5: Match the expectations to reality",
+        "_id": "59005476f06989ac6bf1a75a",
+        "itemIndex": 4
+      }
+    ],
+    "_narrativeLayout": "Left",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "How does branding help you to make sales?",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f8d",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f8c",
+    "__v": 0,
+    "body": "<p>The two pillars of brand strength are brand awareness and brand image.</p><p><br></p><p>Brand awareness. How many customers think of your brand spontaneously and across how many product categories.&nbsp;<br></p><p><br></p><p>Brand image. How positively and passionately customers feel about your brand.&nbsp;<br></p><p><br></p><p>For example, Apple is a famously strong brand. It is very well known across multiple product categories (phones, tablets, laptops). It&nbsp;has many passionately positive customers (people who only buy iPhones and those who sleep outside Apple shops before new products get released). &nbsp;</p>",
+    "displayTitle": "How can you measure a brand's strength?&nbsp;",
+    "_refId": "58f87bbee1a7d0027e8dca43",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How can you measure a brand's strength? ",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f8e",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f8c",
+    "__v": 0,
+    "_refId": "59006bd5f06989ac6bf1a763",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "594d430287b6e2594d6d17bf"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "5967383f1568f8e516392fa6",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392fa4",
+    "__v": 0,
+    "_refId": "59006bd9f06989ac6bf1a764",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5950eb196bf9a4dd791814fb"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "5967383f1568f8e516392fa5",
+    "_component": "accordion",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392fa4",
+    "__v": 0,
+    "_refId": "58ff32c5f06989ac6bf1a6d7",
+    "body": "<p>What makes a strong brand and how do you measure it?</p>",
+    "displayTitle": "Brand awareness and image",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Brand awareness: Depth",
+        "_id": "58ff32def06989ac6bf1a6da",
+        "itemIndex": 0,
+        "body": "<p>Many customers spontaneously think of your brand in a specific product category.&nbsp;</p><p><br></p><p>Here are some measurement ideas.</p><p><br></p>In a survey, ask customers to list all the brands they can think of in your industry, for example, online food websites. See how many include your business in their&nbsp;list.&nbsp;<br><br>Use social media monitoring tools like Brandwatch to measure how many people are talking about your company on social media (positively or negatively) and how many people can see those posts.&nbsp;<br><br>Use the free Adwords Keyword Volume tool to see how many people are searching each month for your brand terms (rather than Googling non-branded keywords like online takeaway website).<br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Brand awareness: Breadth",
+        "_id": "58ff32e9f06989ac6bf1a6db",
+        "itemIndex": 1,
+        "body": "<p>This is how many different product categories your product is remembered in.</p><p><br></p><p>Here are some measurement ideas.</p><p><br></p>A survey asking customers to&nbsp;list all the brands they can think of in different market niches.&nbsp;<br><p><br></p><p>For example, Just Eat might ask which brand customers think of when they need to order:</p><ul><li>Takeaway online</li><li>Food for a meeting&nbsp;</li><li>Fine dining for a date at home&nbsp;</li><li>Food to their hotel when they are abroad</li></ul>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>This is how positively customers feel about your brand.&nbsp;</p><p><br></p><p>Here are some measurement ideas.</p><p><br></p>In a survey, ask customers to score your brand out of 5 on:<div><ul><li>Sincerity (down-to-earth, honest, wholesome, cheerful)<br></li><li>Excitement (daring, spirited, imaginative, up-to-date)<br></li><li>Competence (reliable, intelligent, successful)<br></li><li>Sophistication (upper-class, charming)&nbsp;<br></li><li>Ruggedness (outdoorsy, tough)&nbsp;<br></li></ul>(Based on Jennifer Aaker’s model)<br><p><br></p>Track the proportion of your customers who return to your product again or choose other products in your brand range. This might be an indicator of how positively they feel about your brand.<br></div>",
+        "itemIndex": 2,
+        "_id": "58ff32f1f06989ac6bf1a6dc",
+        "title": "Brand image: Positivity"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "58ff32faf06989ac6bf1a6dd",
+        "title": "Brand image: Strength",
+        "body": "<p>The strength of a brand's image is reflected in how passionately customers feel about your brand. Beware, though, this could be a positive or negative response!&nbsp;</p><p><br></p><p>Here is a measurement idea.</p><p><br></p><p></p>Observe how many customers are sharing your posts on social media,&nbsp;or are making spontaneous comments about your brand."
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand awareness and image",
+    "_type": "component",
+    "_courseOrder": "0-4-0-1"
+  },
+  {
+    "_id": "5967383f1568f8e516392fa2",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392fa1",
+    "__v": 0,
+    "_refId": "58ff90c0f06989ac6bf1a6e6",
+    "displayTitle": "How can you define your brand?&nbsp;",
+    "body": "<p>Brand statements are useful summaries of the promises a brand is making.&nbsp;</p><p><br></p><p>They should help you to make big and small decisions about your company - from which candidate to choose for a job to which jewellery your model should wear for a photo shoot.&nbsp;</p><p><br></p><p>Here are three brand statements from prominent businesses.</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5954d58ae0711ea656fe2a2c"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "59000090f06989ac6bf1a746",
+        "title": "Just Eat",
+        "body": "<p>Just Eat offers more choice than anyone else – catering to every taste, mood, occasion and budget.<br></p><p><br></p><p>We’re making food discovery exciting for everyone – this is our new purpose, and what makes us leap out of bed every morning.</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5954d59be0711ea656fe2a2d"
+          }
+        },
+        "title": "Apple",
+        "itemIndex": 1,
+        "_id": "59000169f06989ac6bf1a74a",
+        "body": "<ol><li>We believe that we’re on the face of the Earth to make great products.<br></li><li>We believe in the simple, not the complex.<br></li><li>We believe that we need to own and control the primary technologies behind the products we make.<br></li><li>We participate only in markets where we can make a significant contribution.<br></li><li>We believe in saying no to thousands of projects so that we can really focus on the few that are truly important and meaningful to us.<br></li><li>We believe in deep collaboration and cross-pollination of our groups, which allow us to innovate in a way that others cannot.<br></li><li>We don’t settle for anything less than excellence in every group in the company, and we have the self-honesty to admit when we’re wrong and the courage to change.<br></li></ol><p><br></p><p>Tim Cook, Apple CEO</p><p></p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598875f87d86c20e2a40fb46",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p>1. We champion creative entrepreneurs</p><p>Every time you shop with us, you'll help support some of the UK's best small creative businesses (more than 5000 sell through our site — we call them our Partners).</p><p><br></p><p>2. We’re very picky</p><p>Each of our products are handpicked by our experts. We choose gifts that are unique, thoughtful and truly personal — not just personalised. That’s why with many of our products, you can choose the colour, font, style, material and add your own special message.</p><p><br></p><p>3. We pride ourselves on quality</p><p>High quality means a lot to us and our Partners. We want you to enjoy that ‘new love’ feeling for even longer, and give gifts that last.</p>",
+        "title": "Not On The High Street",
+        "_id": "5900031cf06989ac6bf1a74e",
+        "itemIndex": 2
+      }
+    ],
+    "_narrativeLayout": "Right",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "How can you define your brand? ",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "5967383f1568f8e516392fa9",
+    "_component": "checklist",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392fa8",
+    "__v": 0,
+    "_refId": "58ff9106f06989ac6bf1a6e8",
+    "body": "<p>A good brand statement should pass the following tests.</p>",
+    "displayTitle": "What makes a good brand statement?",
+    "_items": [
+      {
+        "title": "Could you use your brand statement to choose between two candidates applying for a job at your startup?<br>",
+        "_id": "58ff9123f06989ac6bf1a6e9",
+        "itemIndex": 0
+      },
+      {
+        "itemIndex": 1,
+        "_id": "58ff912af06989ac6bf1a6eb",
+        "title": "Are your brand values unique?<br>Do they capture how you are different from competitors?"
+      },
+      {
+        "itemIndex": 3,
+        "_id": "597a21210a98cc1e7e9e3f13",
+        "title": "Could you use your brand statement to design your website?<br>"
+      },
+      {
+        "title": "Are what you are promising to customers the things that are important to them?&nbsp;<br>After all, you are not running the business for your own interests!",
+        "_id": "58ff9130f06989ac6bf1a6ec",
+        "itemIndex": 2
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What makes a good brand statement?",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "5967383f1568f8e516392faa",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392fa8",
+    "__v": 0,
+    "_refId": "5900047df06989ac6bf1a754",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954ef8ee0711ea656fe2a33"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-1"
+  },
+  {
+    "_id": "5967383f1568f8e516392f9f",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392f9e",
+    "__v": 0,
+    "_refId": "58ff82d5f06989ac6bf1a6df",
+    "body": "<p>The 4P's - product, price, place and promotion - are the channels a company uses to communicate its brand values to customers. </p><p><br></p><p>While it important to seize every opportunity to share your brand promises with customers, the best way by far is to build a strong brand and deliver an amazing product.<br></p><p><br></p><p>That way they won't have to believe that you will delight them - they will know! And, they will likely come back and tell others about you. </p><p><br></p><p>Actions speak louder than words and customer recommendations speak louder than your promises.</p><p><br></p>",
+    "displayTitle": "Communicate your brand to customers",
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598876667d86c20e2a40fb47",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "This category includes your company's name, logo, packaging, website images and designs.&nbsp;<p><br></p><p>It also includes all aspects of your customer support. Think about what questions they will ask.&nbsp;</p><p><br></p><p>Will they call customers by their first name or surname? How well trained will they be?&nbsp;</p>",
+        "title": "Product",
+        "_id": "58ff82eef06989ac6bf1a6e0",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5988766f7d86c20e2a40fb48",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "Price",
+        "itemIndex": 1,
+        "_id": "58ff82f3f06989ac6bf1a6e1",
+        "body": "<p>Does your product's price say 'bargain for the masses' or 'exclusive luxury'?&nbsp;</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598876797d86c20e2a40fb49",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "Where will your product be for sale?<div><p><br></p><p>Which social channels will you choose?&nbsp;Inspiring Instagram or serious LinkedIn?&nbsp;</p><p><br></p><p>Will you be selling on Amazon's bargain marketplace or Etsy's creative marketplace?&nbsp;</p><p><br></p><p>Does the customer's experience on your website reflect your values - luxury, creativity or the personal touch?</p></div>",
+        "title": "Place",
+        "_id": "58ff82f5f06989ac6bf1a6e2",
+        "itemIndex": 2
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598876817d86c20e2a40fb4a",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "body": "<p></p>What language do you use in your adverts and customer emails?&nbsp;Formal or cheeky?&nbsp;Inspiring or pragmatic?&nbsp;<p><br></p><p>What imagery do you choose?</p><p>What do your models look like?</p><p>How are they styled and what do they wear? &nbsp;</p><div><div><p></p></div></div>",
+        "itemIndex": 3,
+        "_id": "58ff82f8f06989ac6bf1a6e3",
+        "title": "Promotion"
+      }
+    ],
+    "_narrativeLayout": "Right",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Communicate your brand to customers",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f8a",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383d1568f8e516392f88",
+    "__v": 0,
+    "_refId": "58ebdb2b192f4e895e96adb2",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954f30be0711ea656fe2a34"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f89",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383d1568f8e516392f88",
+    "__v": 0,
+    "displayTitle": "What is a brand?<br>",
+    "body": "<p>Which two of the five options best describes what a brand is?</p>",
+    "instruction": "",
+    "_refId": "58ebdb2b192f4e895e96adb1",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Are you sure?&nbsp;</p><p><br></p><p>A brand encompasses the organisation's core values and ways in which it operates. It helps employees and customers understand what the company and its product stand for.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>That's right!</p><p><br></p><p>A brand encompasses the organisation's core values and ways in which it operates. It helps employees and customers understand what the company and its product stand for.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "It encompasses the organisation's core values and ways in which it operates.",
+        "itemIndex": 0,
+        "_id": "58d3b5fd13b751d90c4ed95e"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "58d3b69d13b751d90c4ed95f",
+        "text": "It's a logo and symbol to help differentiate you from other providers."
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "58d3b6a913b751d90c4ed960",
+        "text": "It encompasses the organisation's core values and ways in which it operates."
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "58d3b6b413b751d90c4ed961",
+        "text": "A brand is a marketing strategy."
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "It helps employees and customers understand what the company and the product stand for.",
+        "itemIndex": 4,
+        "_id": "58f88019e1a7d0027e8dca4a"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What is a brand?",
+    "_type": "component",
+    "_courseOrder": "0-9-0-1"
+  },
+  {
+    "_id": "5967383e1568f8e516392f92",
+    "_component": "matching",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f90",
+    "__v": 0,
+    "body": "<p>Match the indicators of brand strength against the scenarios.</p>",
+    "_refId": "58f88064e1a7d0027e8dca4b",
+    "displayTitle": "What makes a strong brand?",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Are you sure about that?</p><p><br></p><p>Brand strength can be measured looking at breadth, strength, depth, and positivity.&nbsp;<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>Thats right!&nbsp;</p><p><br></p><p>Brand strength can be measured looking at breadth, strength, depth, and positivity.&nbsp;</p>"
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "58f880b2e1a7d0027e8dca4d",
+            "text": "Positive brand image"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f880c3e1a7d0027e8dca4e",
+            "text": " Breadth of awareness"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f880cfe1a7d0027e8dca4f",
+            "text": " Strength of brand image"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f88107e1a7d0027e8dca50",
+            "text": "Depth of awareness"
+          }
+        ],
+        "text": "How passionate customers are about your brand",
+        "_id": "58f880a5e1a7d0027e8dca4c",
+        "itemIndex": 0
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Depth of awareness",
+            "_id": "58f88117e1a7d0027e8dca52"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Positive brand image",
+            "_id": "58f8811fe1a7d0027e8dca53"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Breadth of awareness    ",
+            "_id": "58f88128e1a7d0027e8dca54"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Strength of brand image",
+            "_id": "58f88138e1a7d0027e8dca55"
+          }
+        ],
+        "text": "The number of customers who would think of you when they first decide they want to buy a product like yours",
+        "_id": "58f88116e1a7d0027e8dca51",
+        "itemIndex": 1
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "58f88165e1a7d0027e8dca57",
+            "text": "Depth of awareness"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f88178e1a7d0027e8dca58",
+            "text": "Positive brand image"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f88183e1a7d0027e8dca59",
+            "text": "Breadth of awareness"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f8818fe1a7d0027e8dca5a",
+            "text": "Strength of brand image"
+          }
+        ],
+        "itemIndex": 2,
+        "_id": "58f88151e1a7d0027e8dca56",
+        "text": "How many product categories the customer would think of when they think of you"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "58f88224e1a7d0027e8dca5c",
+            "text": "Depth of awareness"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f8822fe1a7d0027e8dca5d",
+            "text": "Positive brand image"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f8823ce1a7d0027e8dca5e",
+            "text": "Breadth of awareness"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f88248e1a7d0027e8dca5f",
+            "text": "Strength of brand image"
+          }
+        ],
+        "text": "How positively your customers feel about your brand",
+        "_id": "58f8820de1a7d0027e8dca5b",
+        "itemIndex": 3
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What makes a strong brand?",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f91",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f90",
+    "__v": 0,
+    "_refId": "58ebdb2c192f4e895e96adcc",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5950df396bf9a4dd791814eb"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-10-0-1"
+  },
+  {
+    "_id": "5967383e1568f8e516392f95",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f94",
+    "__v": 0,
+    "_refId": "58ebdb2c192f4e895e96add1",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954f9c8e0711ea656fe2a37"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-11-0-0"
+  },
+  {
+    "_id": "5967383e1568f8e516392f96",
+    "_component": "matching",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383e1568f8e516392f94",
+    "__v": 0,
+    "body": "<p>Brand touchpoints fall under one of the 4Ps.</p><p><br></p><p>Match the touchpoints with the approppriat 4P category.</p>",
+    "_refId": "58f882a5e1a7d0027e8dca60",
+    "displayTitle": "Communicating your brand",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Are you sure that's right?</p><p><br></p><p>Price, place, product and promotion are all ways you can communicate your brand values to your customers.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>That's right!&nbsp;</p><p><br></p><p>Price,&nbsp;<span style=\"font-size: 16px;\">place,&nbsp;</span><span style=\"font-size: 16px;\">product and&nbsp;</span><span style=\"font-size: 16px;\">promotion are all ways you can communicate your brand values to your customers.</span></p><p><br></p>"
+    },
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_items": [
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "text": "Price",
+            "_id": "58f882f6e1a7d0027e8dca62"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Place",
+            "_id": "58f882fbe1a7d0027e8dca63"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f88300e1a7d0027e8dca64",
+            "text": "Product"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Promotion",
+            "_id": "58f88307e1a7d0027e8dca65"
+          }
+        ],
+        "itemIndex": 0,
+        "_id": "58f882e3e1a7d0027e8dca61",
+        "text": "Your name, logo, packaging, customer service style and delivery methods"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": true,
+            "text": "Price",
+            "_id": "58f8831de1a7d0027e8dca67"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Place",
+            "_id": "58f88325e1a7d0027e8dca68"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Product",
+            "_id": "58f88330e1a7d0027e8dca69"
+          },
+          {
+            "_isCorrect": false,
+            "text": "Promotion",
+            "_id": "58f8833be1a7d0027e8dca6a"
+          }
+        ],
+        "text": "How much customers have to pay",
+        "itemIndex": 1,
+        "_id": "58f8830de1a7d0027e8dca66"
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "58f88385e1a7d0027e8dca6c",
+            "text": "Price"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f8838ee1a7d0027e8dca6d",
+            "text": "Place"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f88398e1a7d0027e8dca6e",
+            "text": "Product"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f883a3e1a7d0027e8dca6f",
+            "text": "Promotion"
+          }
+        ],
+        "text": "The look and feel of the website where you sell your products",
+        "_id": "58f8834be1a7d0027e8dca6b",
+        "itemIndex": 2
+      },
+      {
+        "_options": [
+          {
+            "_isCorrect": false,
+            "_id": "58f883c4e1a7d0027e8dca71",
+            "text": "Price"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f883cbe1a7d0027e8dca72",
+            "text": "Place"
+          },
+          {
+            "_isCorrect": false,
+            "_id": "58f883d5e1a7d0027e8dca73",
+            "text": "Product"
+          },
+          {
+            "_isCorrect": true,
+            "_id": "58f883dee1a7d0027e8dca74",
+            "text": "Promotion"
+          }
+        ],
+        "text": "The marketing events you choose to sponsor to raise your profile",
+        "_id": "58f883b3e1a7d0027e8dca70",
+        "itemIndex": 3
+      }
+    ],
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Communicating your brand",
+    "_type": "component",
+    "_courseOrder": "0-11-0-1"
+  },
+  {
+    "_id": "5967383f1568f8e516392f9c",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "5967383f1568f8e516392f9b",
+    "__v": 0,
+    "body": "<p>A brand is the series of promises you make to your customers about what they can expect if they choose you. Make them feel good!&nbsp;</p><p><br></p><p>Strong brands are ones that many customers know about and link positively and passionately with more than one of their needs.&nbsp;</p><p><br></p><p>You can use the 4Ps of product, price, place, and promotion to communicate those brand promises to your customer.&nbsp;</p><p><br></p><p>Ultimately, the way to get customers to trust you most is to have a brilliant product that works and that customers tell other people about.&nbsp;</p><p><br></p><p>Actions speak louder than words and customer recommendations speak louder than the promises you make.</p>",
+    "_refId": "58ebdb2c192f4e895e96addb",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What makes a strong brand? Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "0-12-0-0"
+  },
+  {
+    "_id": "596738451568f8e516393014",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e516393013",
+    "__v": 0,
+    "body": "<p>Now that you have defined your brand you need to craft it and put it into action.</p><p><br></p><p>The most powerful tool you have to convince customers of your promises is by over-delivering.&nbsp;Delighted customers will trust you, keep coming back to you , and recommending you to others. <br></p><p><br></p><p>You will need to:</p><div><ul><li>Pick a good name and logo&nbsp;<br></li><li>Embed your brand values in your team culture<br></li><li><p>Identify where your customer will interact with your brand online&nbsp;</p></li></ul></div>",
+    "displayTitle": "",
+    "_refId": "58ebdb34192f4e895e96aef7",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "How to build a strong brand",
+    "_type": "component",
+    "_courseOrder": "1-0-0-0"
+  },
+  {
+    "_id": "596738441568f8e516393004",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738441568f8e516393003",
+    "__v": 0,
+    "_refId": "5903e4b5ca47c0a24233158f",
+    "body": "<p>Kat from Flock Associates, a digital marketing transformation company, provides us with examples of how they put their branding into action!&nbsp;</p>",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "displayTitle": "Get your brand into action!",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Get your brand into action!",
+    "_type": "component",
+    "_courseOrder": "1-1-0-0"
+  },
+  {
+    "_id": "596738441568f8e516393005",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738441568f8e516393003",
+    "__v": 0,
+    "_refId": "594b9d6bf382c1d37dc87661",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/222515222\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "1-1-0-1"
+  },
+  {
+    "_id": "596738451568f8e516393008",
+    "_component": "checklist",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e516393007",
+    "__v": 0,
+    "_refId": "58ffea70f06989ac6bf1a72e",
+    "body": "<p>Does it matter what the name and a logo of your business is going to be?&nbsp;</p><p><br></p><p>While it is important to have a good name and logo, you shouldn't obsess over it too much.&nbsp;</p><p><br></p><p>Ultimately, your brand strength will live or die by the strength of your product.&nbsp;</p><p><br></p><p>Here are some tips for hitting the right note.</p>",
+    "displayTitle": "What's in a name?",
+    "_items": [
+      {
+        "itemIndex": 0,
+        "_id": "58ffea8af06989ac6bf1a72f",
+        "title": "Would you remember it if you heard it once?"
+      },
+      {
+        "itemIndex": 1,
+        "_id": "58ffeaaff06989ac6bf1a730",
+        "title": "Is it hard to spell?"
+      },
+      {
+        "itemIndex": 2,
+        "_id": "58ffeaddf06989ac6bf1a731",
+        "title": "It is unique?"
+      },
+      {
+        "itemIndex": 3,
+        "_id": "58ffeae3f06989ac6bf1a732",
+        "title": "Can you secure a domain name (URL) with the word in it?"
+      },
+      {
+        "title": "Are you sure it doesn’t evoke negative connotations?",
+        "_id": "58ffeaf2f06989ac6bf1a733",
+        "itemIndex": 4
+      },
+      {
+        "title": "Will it age well as your company evolves?",
+        "itemIndex": 5,
+        "_id": "58ffeafdf06989ac6bf1a734"
+      },
+      {
+        "itemIndex": 6,
+        "_id": "59008624f06989ac6bf1a772",
+        "title": "Does it broadly reflect your brand values?"
+      },
+      {
+        "itemIndex": 7,
+        "_id": "5900862ef06989ac6bf1a773",
+        "title": "Does it communicate what your product's USP is - explicitly or implicitly?&nbsp;"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Checklist Title",
+    "_type": "component",
+    "_courseOrder": "1-2-0-0"
+  },
+  {
+    "_id": "596738451568f8e516393009",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e516393007",
+    "__v": 0,
+    "_refId": "5954cac6e0711ea656fe2a1f",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954ed50e0711ea656fe2a32"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "1-2-0-1"
+  },
+  {
+    "_id": "596738461568f8e516393024",
+    "_component": "graphic",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738461568f8e516393023",
+    "__v": 0,
+    "_refId": "590086a2f06989ac6bf1a774",
+    "displayTitle": "Loco for logos!",
+    "body": "<p>Here are some logo ideas from British companies who have taken part in Tech City's accelerators.</p>",
+    "_graphic": {
+      "large": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "590086dff06989ac6bf1a775"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Loco for logos!",
+    "_type": "component",
+    "_courseOrder": "1-3-0-0"
+  },
+  {
+    "_id": "596738461568f8e51639301a",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738461568f8e516393019",
+    "__v": 0,
+    "_refId": "58ffeb9cf06989ac6bf1a737",
+    "body": "<p>As your team grows, your colleagues will start to make decisions without you.&nbsp;</p><p><br></p><p>You need to be confident that they truly understand what your brand values are, and will communicate them well across all interactions the customer has with the business&nbsp;- from the way their answer the phone to the posts they share on Linkedin.&nbsp;</p><p><br></p><p>The best way to build this shared understanding of your brand values is to put them at the heart of your company culture.&nbsp;</p><p><br></p><p>That means&nbsp;hiring, training and promoting staff who exemplify those values. &nbsp;You need model them yourself, too!&nbsp;</p><p><br></p><p>Here are some examples.</p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Build brand values into your team",
+    "_type": "component",
+    "_courseOrder": "1-4-0-0"
+  },
+  {
+    "_id": "596738461568f8e51639301b",
+    "_component": "narrative",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738461568f8e516393019",
+    "__v": 0,
+    "_refId": "58ffebb1f06989ac6bf1a738",
+    "displayTitle": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598877727d86c20e2a40fb4c",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "Buffer",
+        "_id": "590079d7f06989ac6bf1a76f",
+        "itemIndex": 0,
+        "body": "<p>Buffer, a social media software tool is so committed to transparency that it publishes the salaries of all its employees.&nbsp;</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598877887d86c20e2a40fb4d",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "_id": "59007a25f06989ac6bf1a770",
+        "itemIndex": 1,
+        "title": "Google&nbsp;",
+        "body": "<p>Google's commitment to innovation means employees get allocated time to work on experimental projects</p>"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "598877a07d86c20e2a40fb4e",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "title": "Unilever",
+        "body": "<p>Unilever promises to ‘make sustainable living commonplace’.&nbsp;</p><p><br></p><p>They invest in projects like Foundry Ideas, a global crowdsourcing platform that looks to solve sustainability issues in sanitation, hygiene, and nutrition.<br></p>",
+        "_id": "5900db7ff06989ac6bf1a78b",
+        "itemIndex": 2
+      }
+    ],
+    "_narrativeLayout": "Full",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Narrative Title",
+    "_type": "component",
+    "_courseOrder": "1-4-0-1"
+  },
+  {
+    "_id": "596738461568f8e516393021",
+    "_component": "flowChart",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738461568f8e516393020",
+    "__v": 0,
+    "_refId": "58ffec82f06989ac6bf1a73d",
+    "body": "<p>Just Eat shares its brand values throughout the customer's interactions with them.</p>",
+    "displayTitle": "Influence your customers throughout their online journey",
+    "_items": [
+      {
+        "_graphic": {
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "590090adf06989ac6bf1a776"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "When the customer considers you",
+        "itemIndex": 0,
+        "body": "<p><span style=\"font-size: 16px;\">This is where your marketing pays off.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">If your marketing has worked, it will conjure up a strong, positive, memorable feeling in your customer's mind.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">When they </span><span style=\"font-size: 16px;\">are ready to buy a product like yours, they will think of you.&nbsp;</span></p>"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "590091a6f06989ac6bf1a778"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "itemIndex": 1,
+        "title": "When customers evaluate their options",
+        "body": "<p>Customers will use your website to understand exactly what you offer, what makes you different, and what working with you might feel like.&nbsp;</p><p><br></p><p>They will consider whether you have values they are comfortable being associated with.&nbsp;</p>"
+      },
+      {
+        "_graphic": {
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5900935af06989ac6bf1a77b"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "When the customer is ready to make a choice",
+        "itemIndex": 2,
+        "body": "<p>Clear information about pricing and delivery will reassure customers that you are a fair and practical company to deal with.</p>"
+      },
+      {
+        "_graphic": {
+          "small": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "59009620f06989ac6bf1a782"
+          }
+        },
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "body": "<p>Happy customers will tell other people how much they love your brand, which is gold to your brand's positive reputation.</p><p><br></p><p>It is strongly recommended that you use brand monitoring tools, such as Hootsuite, Brandwatch, and Google alerts. You will know straightaway if customers are speaking about your brand.  </p><p><br></p><p>If they are sharing negative perceptions, respond immediately to mend the relationship.&nbsp;<span style=\"font-size: 16px;\">If they are sharing positive perceptions, say thanks and encourage them with discounts, special offers or just a 'like'.&nbsp;</span></p><p><br></p>",
+        "title": "When you deliver on your promises",
+        "itemIndex": 3
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Influence your customers throughout their online journey",
+    "_type": "component",
+    "_courseOrder": "1-5-0-0"
+  },
+  {
+    "_id": "596738451568f8e51639300d",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e51639300b",
+    "__v": 0,
+    "displayTitle": "Gone loco for logos?<br>",
+    "body": "<p>Which of the following statements is NOT true?</p>",
+    "instruction": "",
+    "_refId": "58ebdb33192f4e895e96aeef",
+    "_feedback": {
+      "correct": "<p style=\"text-align: center;\"><b>Well done!&nbsp;</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">While having a memorable name is helpful, it will broadly be defined by how good (or bad) your product is.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p style=\"text-align: center;\"><b>Are you sure about that?</b></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\">While having a memorable name is helpful, it will broadly be defined by how good (or bad) your product is.&nbsp;<br></p><p style=\"text-align: center;\"><b><br></b></p><p style=\"text-align: center;\"><br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "58bff80c13b751d90c4ed3c4",
+        "itemIndex": 0,
+        "text": "The details of a logo will probably make or break your brand"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "The brand name and logo have to be OK but ultimately the quality of the product will largely define how strong a brand is",
+        "itemIndex": 1,
+        "_id": "58bff80e13b751d90c4ed3c5"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "_id": "58bff80e13b751d90c4ed3c6",
+        "itemIndex": 2,
+        "text": "If possible, pick a name which shows what is unique about your company"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Gone loco for logos?",
+    "_type": "component",
+    "_courseOrder": "1-7-0-0"
+  },
+  {
+    "_id": "596738451568f8e51639300c",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e51639300b",
+    "__v": 0,
+    "_refId": "58ebdb33192f4e895e96aeed",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954d3e6e0711ea656fe2a28"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Scale",
+    "_type": "component",
+    "_courseOrder": "1-7-0-1"
+  },
+  {
+    "_id": "596738451568f8e516393010",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e51639300f",
+    "__v": 0,
+    "_refId": "58ebdb33192f4e895e96aef2",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954cfc9e0711ea656fe2a24"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "1-8-0-0"
+  },
+  {
+    "_id": "596738451568f8e516393011",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e51639300f",
+    "__v": 0,
+    "_refId": "590099f4f06989ac6bf1a783",
+    "body": "<p>Which two statements best describe what it means to internalise your brand values in your company's culture?&nbsp;</p>",
+    "displayTitle": "Internalising the brand",
+    "instruction": "",
+    "_feedback": {
+      "correct": "<p><b>That's right!&nbsp;</b><br><br></p><p>Internalising brand values means drawing on them to make big decisions like hiring and product strategy.<br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>Internalising brand values means drawing on them to make big decisions like hiring and product strategy.<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Place posters with keywords on the walls of your offices and your website&nbsp;",
+        "_id": "59009a02f06989ac6bf1a784",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Making sure you recruit people who embody your brand values and promoting people who exemplify them best",
+        "_id": "59009a1bf06989ac6bf1a785",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Making tough decisions, such as whether to expand to a new market or what to choose as your new product's name, by seeing which options are best aligned with your brand values.&nbsp;",
+        "_id": "59009a26f06989ac6bf1a786",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Internalising the brand",
+    "_type": "component",
+    "_courseOrder": "1-8-0-1"
+  },
+  {
+    "_id": "596738461568f8e51639301e",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738461568f8e51639301d",
+    "__v": 0,
+    "_refId": "59009b42f06989ac6bf1a787",
+    "displayTitle": "Communicating your brand online",
+    "body": "<p>How could a company show customers they believe in luxury as a brand value?</p>",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Price, product, promotion and place can be used to send a message about a product's brand values.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>Well done!&nbsp;</b></p><p><br></p><p>Price, product, promotion and place can be used to send a message about a product's brand values.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59009b5ff06989ac6bf1a788",
+        "text": "Use the best quality photos on the website"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Have the lowest prices on the market",
+        "_id": "59009b6ef06989ac6bf1a789",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59009b7ef06989ac6bf1a78a",
+        "text": "Write a guest blog on moneysavingexpert.com"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Communicating your brand online",
+    "_type": "component",
+    "_courseOrder": "1-9-0-0"
+  },
+  {
+    "_id": "596738461568f8e516393017",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738451568f8e516393016",
+    "__v": 0,
+    "body": "<p style=\"text-align: left;\">Pick a relevant name and logo that fits your brand values and try to capture your company's unique selling point.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Live and breathe your brand values through everything your company does, starting with the people you recruit.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Your online presence should be strong. From your website to your marketing materials and your Facebook feed, tell a coherent story about who you are, what you believe in, and what customers can expect from working with you.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">In everything you do, make your customer feel good!&nbsp;</p><p style=\"text-align: left;\"><br></p>",
+    "displayTitle": "",
+    "_refId": "58ebdb34192f4e895e96aefa",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": true
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How to build a strong brand? Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "1-10-0-0"
+  },
+  {
+    "_id": "596738431568f8e516392fea",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392fe9",
+    "__v": 0,
+    "body": "<p style=\"text-align: left;\">Whether you are launching a new company with one product, or your 25th new flavour in another, this module will help you to avoid some common mistakes.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">You will need to consider:</p><ul><li style=\"text-align: left;\">Three key branding questions to consider when you bring out a new product<br></li><li style=\"text-align: left;\">How to map your company’s brand hierarchy to ensure your messages are not conflicting<br></li><li style=\"text-align: left;\">How to identify and monitor threats to your brand and pre-empt responses to them&nbsp;</li></ul><p><br></p>",
+    "displayTitle": "",
+    "_refId": "58ebdb31192f4e895e96aebf",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Divide and conquer!",
+    "_type": "component",
+    "_courseOrder": "2-0-0-0"
+  },
+  {
+    "_id": "596738431568f8e516392fe4",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fe2",
+    "__v": 0,
+    "_refId": "594a3bcb35cd7bb16561650c",
+    "body": "<p>This is the first of three questions you should ask yourself when launching a new product.</p>",
+    "instruction": "",
+    "displayTitle": "Should you keep the old brand or create a new one?<span style=\"font-size: 16px;\">&nbsp;&nbsp;</span>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Should you keep the old brand or create a new one?  ",
+    "_type": "component",
+    "_courseOrder": "2-1-0-0"
+  },
+  {
+    "_id": "596738431568f8e516392fe3",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fe2",
+    "__v": 0,
+    "_refId": "594a3bc435cd7bb16561650b",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/214890026\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/214890026\">C5M3 : Key Brand Questions about your new product - Keep the same one or create a new one?</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "2-1-0-1"
+  },
+  {
+    "_id": "596738441568f8e516392ff8",
+    "_component": "flipCard",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738441568f8e516392ff7",
+    "__v": 0,
+    "_refId": "58ffdbf1f06989ac6bf1a6ef",
+    "displayTitle": "Arguments for and against launching new brands",
+    "body": "<p>Whichever option your choose, you must make sure that the new product you are launching has a distinct brand.&nbsp;</p><p><br></p><p>That is, a unique set of promises to a specific segment of the market.&nbsp;</p><p><br></p><p>If products send overlapping messages to the same customers, they will both lose out and damage each others' brands.&nbsp;</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59887df67d86c20e2a40fb4f",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": ""
+        },
+        "frontText": "",
+        "backText": "<div><b>Create a new brand: Vertical expansion</b><br></div><br>This would mean adapting variations of your existing products to new markets, for example Tesco launching Tesco Finest.",
+        "_id": "58ffdc79f06989ac6bf1a6f3",
+        "itemIndex": 0
+      },
+      {
+        "frontTextStyles": {
+          "_fontColor": "transparent"
+        },
+        "_frontGraphic": {
+          "_id": "59887e0c7d86c20e2a40fb50",
+          "_extension": "jpeg",
+          "_type": "image"
+        },
+        "backTextStyles": {
+          "_fontColor": "#000000",
+          "_fontSize": ""
+        },
+        "backText": "<div><b>Stay with the old brand: Horizontal expansion<br></b></div><br>This would mean selling different products to the same market, for example T<span style=\"font-size: 16px;\">esco selling clothes or personal banking.&nbsp;</span><div><div><br></div>One benefit is that you already have a broad, loyal customer base.&nbsp;<span style=\"font-size: 16px;\">The risk is that if the product doesn’t live up to expectations, it could damage both brands.</span></div><div><div><br>You also need to ask yourself:</div>'Is the new product a good fit with the old product:'<br>For example, Bic disposable lighters expanded well into Bic disposable razors, but when they launched perfumes, they customers didn't buy it at all!</div>",
+        "itemIndex": 1,
+        "_id": "58ffdc8cf06989ac6bf1a6f4",
+        "frontText": ""
+      }
+    ],
+    "_flipCardsContainerAlignment": "left",
+    "_flipCardsContainerMaxWidth": "1024px",
+    "_canSetContainerMaxWidth": false,
+    "_backTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_frontTextStyles": {
+      "_fontColor": "transparent"
+    },
+    "_backGraphic": null,
+    "_frontGraphic": null,
+    "_shouldDisableCardFocus": false,
+    "_shouldFlipBackNonSelectedCards": true,
+    "_shouldUseIndividualItemImages": true,
+    "_shouldUseFrontImageAsBackImage": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Arguments for and against launching new brands",
+    "_type": "component",
+    "_courseOrder": "2-2-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fd8",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fd6",
+    "__v": 0,
+    "_refId": "594a3f7535cd7bb165616512",
+    "displayTitle": "Make sure your messages are not conflicting",
+    "instruction": "",
+    "body": "<p>Professor Prabhu explores how you can make sure that your product ranges are not sending out conflicting and confusing brand messages.<span style=\"font-size: 16px;\">&nbsp;</span></p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Make sure your messages are not conflicting",
+    "_type": "component",
+    "_courseOrder": "2-3-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fd7",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fd6",
+    "__v": 0,
+    "_refId": "594a3f6e35cd7bb165616511",
+    "_media": {
+      "_source": "iframe src=\"https://player.vimeo.com/video/228831701\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "2-3-0-1"
+  },
+  {
+    "_id": "596738441568f8e516392ffb",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738441568f8e516392ffa",
+    "__v": 0,
+    "_refId": "58ffdc02f06989ac6bf1a6f2",
+    "displayTitle": "Brand hierarchies explained",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58ffdd33f06989ac6bf1a6f5"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-4-0-0"
+  },
+  {
+    "_id": "596738441568f8e516392ffc",
+    "_component": "text",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738441568f8e516392ffa",
+    "__v": 0,
+    "_refId": "5900f16df06989ac6bf1a791",
+    "body": "<p>As the number of products grows, it is useful to map out a brand hierarchy.</p><p><br></p><p>This means which levels of the business are sending which messages. It helps you check if your promises are consistent, and identifies where they differ, so that you can always deliver on expectations. </p><p><br></p><p>For example, whether you are buying an iPad or the iPhone6, you will still enjoy Apple’s top-level brand promise of quality and minimalist design, while still enjoying the unique promises of the products.&nbsp;</p><p><br></p><p>Ultimately, it is always best to keep it simple.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand hierarchies explained",
+    "_type": "component",
+    "_courseOrder": "2-4-0-1"
+  },
+  {
+    "_id": "596738421568f8e516392fdc",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fda",
+    "__v": 0,
+    "_refId": "5900f276f06989ac6bf1a794",
+    "displayTitle": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5950ed716bf9a4dd791814fd"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": true,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand bundling",
+    "_type": "component",
+    "_courseOrder": "2-5-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fdb",
+    "_component": "accordion",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fda",
+    "__v": 0,
+    "_refId": "58ffdfd2f06989ac6bf1a6f9",
+    "displayTitle": "Organise a portfolio your of brands",
+    "body": "<p>What types of relationships between brands in the same company are there?</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "58ffdfdcf06989ac6bf1a6fb",
+        "title": "Umbrella family",
+        "body": "<p>Emphasising the company's brand over the product brand.&nbsp;</p><p><br></p><p>For example, calling a new train service Virgin rather than Virgin Trains.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Individual brand",
+        "body": "<p>Emphasising the product brand over the company's brand.&nbsp;</p><p><br></p><p>For example, Post-It Notes from 3M</p>",
+        "_id": "58ffdfebf06989ac6bf1a6fc",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>For example, Apple iPhone.</p>",
+        "itemIndex": 2,
+        "_id": "58ffe000f06989ac6bf1a6fe",
+        "title": "Give equal prominence to the corporate and individual brands<br>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Organise a portfolio your of brands",
+    "_type": "component",
+    "_courseOrder": "2-5-0-1"
+  },
+  {
+    "_id": "596738431568f8e516392ff1",
+    "_component": "textNarrative",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392ff0",
+    "__v": 0,
+    "_refId": "58ffe0f9f06989ac6bf1a705",
+    "displayTitle": "What threats are there to your brand?",
+    "body": "<p>As your staff and customer community grows, it is likely that sooner or later, somebody will say or do something which breaks your brand's promise or undermines its credibility.&nbsp;</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>This could be about a fault in your product,&nbsp;<span style=\"font-size: 16px;\">ethical standards in your industry or poor treatment of staff.</span></p>",
+        "_id": "58ffe0fef06989ac6bf1a706",
+        "itemIndex": 0,
+        "title": "Negative press coverage&nbsp;"
+      },
+      {
+        "title": "Negative social media comments&nbsp;",
+        "body": "<p>Comments by customers could be genuine, such as those &nbsp;who have been disappointed with customer service.</p><p><br></p><p>Comments could also be from your competitors, or from disgruntled former employees or generated by a hackers, all looking to discredit your brand.</p>",
+        "_id": "58ffe122f06989ac6bf1a707",
+        "itemIndex": 1
+      },
+      {
+        "body": "<p> A significant threat to your brand is when it l<span style=\"font-size: 16px;\">ooks outdated, or n</span><span style=\"font-size: 16px;\">obody recognises it, or it doesn't stand out from the crowd.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">A weak brand reflects poorly on the company and doesn't pull its weight for the business.</span></p>",
+        "_id": "58ffe16af06989ac6bf1a708",
+        "itemIndex": 2,
+        "title": "A weak brand&nbsp;"
+      },
+      {
+        "title": "Product issues",
+        "itemIndex": 3,
+        "_id": "58ffe183f06989ac6bf1a709",
+        "body": "<p>A branding fail could happen if, for example:</p><ul><li>The product arrives late in the post<br></li><li>Is damaged in delivery or in production<br></li><li>A staff member is rude to a customer on the phone<br></li><li>Staff are poorly trained on service or product knowledge<br></li><li>Your website is confusing<br></li></ul>"
+      },
+      {
+        "itemIndex": 4,
+        "_id": "5900f457f06989ac6bf1a797",
+        "title": "But don't worry!&nbsp;",
+        "body": "<p>If threats to your brand are identified early and decisively, they can often be turned into opportunities!</p>"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What threats are there to your brand?",
+    "_type": "component",
+    "_courseOrder": "2-6-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fe0",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fde",
+    "__v": 0,
+    "_refId": "5901046ff06989ac6bf1a79a",
+    "displayTitle": "Out with the old, in with the new?",
+    "body": "<p>There are two good reasons to keep your product under an existing brand.</p><p><br></p><p>Which two are they?</p>",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Launching a new product under an existing brand can help the product by tapping into an existing trusting audience.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>Launching a new product under an existing brand can help the product by tapping into an existing trusting audience.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "590104faf06989ac6bf1a79b",
+        "text": "Your new product is selling to a similar group of customers but in a very different category"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "You can benefit from the brand trust already built up",
+        "_id": "59010558f06989ac6bf1a79c",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "It is a very risky product which customers might not like&nbsp;",
+        "_id": "59010571f06989ac6bf1a79d",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Out with the old, in with the new?",
+    "_type": "component",
+    "_courseOrder": "2-8-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fdf",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fde",
+    "__v": 0,
+    "_refId": "58ebdb31192f4e895e96aea5",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595116b56bf9a4dd7918150a"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Search",
+    "_type": "component",
+    "_courseOrder": "2-8-0-1"
+  },
+  {
+    "_id": "596738431568f8e516392fee",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392fec",
+    "__v": 0,
+    "_refId": "59510dc96bf9a4dd79181508",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595114816bf9a4dd79181509"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-9-0-0"
+  },
+  {
+    "_id": "596738431568f8e516392fed",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392fec",
+    "__v": 0,
+    "_refId": "58ffe51ff06989ac6bf1a714",
+    "body": "<p>Which two options are a brand hierarchy?</p>",
+    "displayTitle": "Brand hierarchy",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>A brand hierarchy check will show if you are giving clear messages to your customers about what you stand for.&nbsp;<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>A brand hierarchy check will show if you are giving clear messages to your customers about what you stand for.&nbsp;<br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "58ffe546f06989ac6bf1a715",
+        "text": "A diagram that checks your brand messages aren't conflicting in terms of the different products you make"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "A diagram that shows which messages are coming from which parts of the organisation.",
+        "_id": "58ffe54cf06989ac6bf1a716",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "58ffe552f06989ac6bf1a717",
+        "text": "A way to decide which products should get the most funding"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand hierarchy",
+    "_type": "component",
+    "_courseOrder": "2-9-0-1"
+  },
+  {
+    "_id": "596738441568f8e516392ff5",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392ff3",
+    "__v": 0,
+    "_refId": "590106a2f06989ac6bf1a79e",
+    "displayTitle": "Dealing with complaints",
+    "body": "<p>If a customer complains on social media, what should you do?&nbsp;</p><p>Choose one option.</p>",
+    "instruction": "",
+    "_feedback": {
+      "correct": "<p>That's right.</p><p><br></p><p>By putting a mistake right, you can turn angry customers into advocates.&nbsp;</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p>Are you sure about that?&nbsp;</p><p><br></p><p>By putting a mistake right, you can turn angry customers into advocates.&nbsp;<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "590106aef06989ac6bf1a79f",
+        "text": "Give them an instant refund and compensation to minimise the amount of time they are angry"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Apologise publicly for the frustration they are experiencing.&nbsp;<span style=\"font-size: 16px;\">Try and move the conversation to a private channel (messaging or phone).&nbsp;</span>Find out exactly what the problem was so you can learn from it. <span style=\"font-size: 16px;\">Wherever possible, put the problem right and go the extra mile by giving them something personal that shows you care.</span>&nbsp;<br>",
+        "_id": "590106cff06989ac6bf1a7a0",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Nothing - you can't control what people say about you",
+        "_id": "5901073af06989ac6bf1a7a1",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Always block them so your existing user base can't see the negative comments",
+        "_id": "5901074ef06989ac6bf1a7a2",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Dealing with complaints",
+    "_type": "component",
+    "_courseOrder": "2-10-0-0"
+  },
+  {
+    "_id": "596738431568f8e516392ff4",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392ff3",
+    "__v": 0,
+    "_refId": "58ffe333f06989ac6bf1a713",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954d9cee0711ea656fe2a30"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-10-0-1"
+  },
+  {
+    "_id": "596738431568f8e516392fe7",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738431568f8e516392fe6",
+    "__v": 0,
+    "body": "<p>When you launch a new product, think about these points.&nbsp;</p><p><br></p><ul><li>Keep the company brand or create a new one?</li><li>How to make sure the new product's brand message is &nbsp;different to the other products the company has.&nbsp;</li><li>How your product and company brands relate to each other&nbsp;</li><li>How you can pre-empt, &nbsp;find out about, and respond to negative brand mentions and ideally turn disgruntled customers into brand advocates. It can be done.&nbsp;</li></ul>",
+    "displayTitle": "",
+    "_refId": "58ebdb31192f4e895e96aeb4",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": true
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How to keep your brand strong as you grow. Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "2-11-0-0"
+  },
+  {
+    "_id": "596738401568f8e516392fbc",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392fbb",
+    "__v": 0,
+    "body": "<p style=\"text-align: left;\">Some companies believe that you can put a monetary value on their brand.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">For example, when they come to valuing the business before it is sold.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Let's have a look at:</p><ul><li style=\"text-align: left;\">What brand equity is<br></li><li style=\"text-align: left;\">How brand equity can be measured<br></li></ul>",
+    "displayTitle": "",
+    "_refId": "58ebdb2e192f4e895e96ae10",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "3-0-0-0"
+  },
+  {
+    "_id": "596738401568f8e516392fb0",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392faf",
+    "__v": 0,
+    "body": "<p>Some business experts believe that businesses’ brands have a raw commercial value in themselves.&nbsp;</p><p><br></p><p>For example, when Gillette was sold, the buyer paid $57bn dollars for the whole company but $24bn dollars was estimated to have been just for the brand.&nbsp;</p>",
+    "displayTitle": "What is brand equity?&nbsp;",
+    "_refId": "58ebdb2c192f4e895e96ade8",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "What is brand equity? ",
+    "_type": "component",
+    "_courseOrder": "3-1-0-0"
+  },
+  {
+    "_id": "596738401568f8e516392fb1",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392faf",
+    "__v": 0,
+    "_refId": "59010cd6f06989ac6bf1a7a3",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "591c9feb02778c512a0aad55"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-1-0-1"
+  },
+  {
+    "_id": "596738401568f8e516392fb5",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392fb3",
+    "__v": 0,
+    "_refId": "594a40fc35cd7bb165616515",
+    "body": "<p>Professor Jaideep Prabhu explains how you can try to put a financial value on a brand by using either financial or consumer based methods.</p><p><br></p><p>Both methods are subjective and flawed, so it is best to use a combination of methods.</p>",
+    "displayTitle": "How do you measure brand equity?",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How do you measure brand equity?",
+    "_type": "component",
+    "_courseOrder": "3-2-0-0"
+  },
+  {
+    "_id": "596738401568f8e516392fb4",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392fb3",
+    "__v": 0,
+    "_refId": "594a40f535cd7bb165616514",
+    "instruction": "",
+    "_media": {
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe src=\"https://player.vimeo.com/video/228837183\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/215282872\">video1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "3-2-0-1"
+  },
+  {
+    "_id": "596738411568f8e516392fca",
+    "_component": "accordion",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc9",
+    "__v": 0,
+    "_refId": "59030a5bca47c0a2423314d9",
+    "displayTitle": "",
+    "body": "<p>Here are two approaches to measuring brand equity.<br></p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<div>For example, run tests with customers to see how much they would pay for unbranded cola vs Coca Cola.&nbsp;</div><p><br></p><p>The difference is how much the brand is worth per unit.&nbsp;</p>",
+        "title": "Consumer based",
+        "_id": "59030a6fca47c0a2423314db",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>For example, calculating how much it would cost to rebuild the brand if you were to start from scratch today.&nbsp;</p>",
+        "title": "Finance based",
+        "_id": "59030a73ca47c0a2423314dd",
+        "itemIndex": 1
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Measuring brand equity",
+    "_type": "component",
+    "_courseOrder": "3-3-0-0"
+  },
+  {
+    "_id": "596738411568f8e516392fcb",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc9",
+    "__v": 0,
+    "_refId": "59030a5fca47c0a2423314da",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59539910e0711ea656fe29fd"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-3-0-1"
+  },
+  {
+    "_id": "596738421568f8e516392fd3",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fd1",
+    "__v": 0,
+    "_refId": "594a423135cd7bb165616518",
+    "displayTitle": "Brand Asset Valuator: &nbsp;Tracking brand value over time",
+    "body": "<p>In this video Professor Prabhu shares details of the Brand Asset Valuator (BAV).</p><p><br></p><p>This tool collects responses from customers around how they perceive hundreds of companies. They rate companies on four criteria: esteem, differentiation, relevance, and knowledge.&nbsp;</p><p><br></p><p>Some people feel that these benchmarked, quantified evaluations can be converted into financial valuations.&nbsp;</p>",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand Asset Valuator:  Tracking brand value over time",
+    "_type": "component",
+    "_courseOrder": "3-4-0-0"
+  },
+  {
+    "_id": "596738421568f8e516392fd2",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738421568f8e516392fd1",
+    "__v": 0,
+    "_refId": "594a422c35cd7bb165616517",
+    "_media": {
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe src=\"https://player.vimeo.com/video/228841104\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/215282825\">video1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "3-4-0-1"
+  },
+  {
+    "_id": "596738411568f8e516392fcf",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fcd",
+    "__v": 0,
+    "_refId": "594a42d935cd7bb16561651b",
+    "displayTitle": "Founder stories: Brand equity in startups",
+    "body": "<p>The founder and CEO of NVirtual shares his experiences of tracking brand value for his startup. &nbsp;</p>",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Founder stories: Brand equity in startups",
+    "_type": "component",
+    "_courseOrder": "3-5-0-0"
+  },
+  {
+    "_id": "596738411568f8e516392fce",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fcd",
+    "__v": 0,
+    "_refId": "594a42d435cd7bb16561651a",
+    "_media": {
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe src=\"https://player.vimeo.com/video/228844491\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/215282754\">video1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "3-5-0-1"
+  },
+  {
+    "_id": "596738401568f8e516392fb9",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392fb7",
+    "__v": 0,
+    "_refId": "5901150af06989ac6bf1a7bb",
+    "displayTitle": "Brand equity",
+    "body": "<p>Which one of the following best describes brand equity?</p>",
+    "instruction": "",
+    "_feedback": {
+      "correct": "<p>That's right!<br><br></p><p>Brand equity is the money you would ask of a buyer for full rights to use your brand if you were to sell them your company tomorrow</p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p>Are you sure?</p><p><br></p><p>Brand equity is the money you would ask of a buyer for full rights to use your brand if you were to sell them your company tomorrow<br></p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "59011521f06989ac6bf1a7bc",
+        "text": "The average a company spends on branding each year&nbsp;"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "59011538f06989ac6bf1a7bd",
+        "text": "The money you would ask of a buyer for full rights to use your brand if you were to sell them your company tomorrow"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59011557f06989ac6bf1a7be",
+        "text": "A company giving another company equity in exchange for the rights to use their brand"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Brand equity",
+    "_type": "component",
+    "_courseOrder": "3-7-0-0"
+  },
+  {
+    "_id": "596738401568f8e516392fb8",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738401568f8e516392fb7",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae0b",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "595399a4e0711ea656fe29fe"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-7-0-1"
+  },
+  {
+    "_id": "596738411568f8e516392fc2",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc1",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae1f",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5954dbc8e0711ea656fe2a31"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-8-0-0"
+  },
+  {
+    "_id": "596738411568f8e516392fc3",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc1",
+    "__v": 0,
+    "_refId": "59011413f06989ac6bf1a7b3",
+    "displayTitle": "Calculating brand equity",
+    "body": "<p>Which one of the following is NOT a recognised way of calculating brand equity?&nbsp;</p>",
+    "instruction": "",
+    "_feedback": {
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>There are both consumer and financial based ways of calculating brand value.&nbsp;</p><p><br></p>",
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_incorrect": {
+        "final": "<p><b>Are you sure about that? </b>&nbsp;</p><p><br></p><p>There are both consumer and financial based ways of calculating brand value.&nbsp;</p>",
+        "_shouldUseGlobalIncorrectFeedback": false
+      },
+      "_shouldUseGlobalCorrectFeedback": false
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5901142ef06989ac6bf1a7b4",
+        "text": "Work out how much it would cost you today to build your brand again from scratch"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Work out from current sales and market share how much extra money your brand makes for the business",
+        "_id": "59011438f06989ac6bf1a7b5",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "59011449f06989ac6bf1a7b6",
+        "text": "Conduct customer research to gauge customers' passion and positivity for the brand"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "59011495f06989ac6bf1a7b8",
+        "text": "Multiply a company's age by its current annual revenue"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Calculating brand equity",
+    "_type": "component",
+    "_courseOrder": "3-8-0-1"
+  },
+  {
+    "_id": "596738411568f8e516392fc6",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc5",
+    "__v": 0,
+    "displayTitle": "Brand Asset Valuator",
+    "_refId": "58ebdb2e192f4e895e96ae23",
+    "body": "<p>Brand Asset Valuator measures customers' perceptions of brand around the world and over time based on four metrics. What are the four metrics?&nbsp;</p>",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Are you sure about that?&nbsp;</p><p><br></p><p>The brand asset valuator measures global brands' differentiation, esteem, knowledge and relevance over time.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>That's right.&nbsp;</p><p><br></p><p>The brand asset valuator measures a global brand's d<span style=\"font-size: 16px;\">ifferentiation, esteem, knowledge, and relevance over time.</span></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Differentiation, esteem, knowledge and relevance",
+        "_id": "58db923813b751d90c4ee45a",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Historical value, relevance, awareness and credibility",
+        "_id": "58db924413b751d90c4ee45b",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "58db927a13b751d90c4ee45c",
+        "text": "Trustworthiness, prestige, positivity and sales"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Brand Asset Valuator",
+    "_type": "component",
+    "_courseOrder": "3-9-0-0"
+  },
+  {
+    "_id": "596738411568f8e516392fc7",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fc5",
+    "__v": 0,
+    "_refId": "58ebdb2e192f4e895e96ae24",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59511ede6bf9a4dd7918150e"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-9-0-1"
+  },
+  {
+    "_id": "596738411568f8e516392fbf",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5967383c1568f8e516392f7c",
+    "_parentId": "596738411568f8e516392fbe",
+    "__v": 0,
+    "body": "<p>Some business experts believe that brands have a financial value unto themselves.&nbsp;</p><p><br></p><p>There are many ways this could be calculated but all are subjective. Therefore it is best to use a combination of financial and customer led approaches.&nbsp;</p><p><br></p><p>A popular customer led approach is the Brand Asset Valuator, which measures a brand's equity over time and predicts how it will perform in the future.&nbsp;<span style=\"font-size: 16px;\">&nbsp;</span></p>",
+    "displayTitle": "",
+    "_refId": "58ebdb2e192f4e895e96ae13",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": true
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What is brand equity? Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "3-10-0-0"
+  }
+]
