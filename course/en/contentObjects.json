@@ -1,8 +1,8 @@
 [
   {
-    "_id": "5967383d1568f8e516392f7f",
-    "_courseId": "5967383c1568f8e516392f7c",
-    "_parentId": "5967383c1568f8e516392f7c",
+    "_id": "599c425cc7e58f501fad3e40",
+    "_courseId": "599c425cc7e58f501fad3e3d",
+    "_parentId": "599c425cc7e58f501fad3e3d",
     "_sortOrder": 0,
     "__v": 0,
     "displayTitle": "Understanding what makes a strong brand<br>",
@@ -147,9 +147,9 @@
     "_courseOrder": "0"
   },
   {
-    "_id": "596738441568f8e516393001",
-    "_courseId": "5967383c1568f8e516392f7c",
-    "_parentId": "5967383c1568f8e516392f7c",
+    "_id": "599c425dc7e58f501fad3ec5",
+    "_courseId": "599c425cc7e58f501fad3e3d",
+    "_parentId": "599c425cc7e58f501fad3e3d",
     "_sortOrder": 1,
     "__v": 0,
     "displayTitle": "How to build a strong brand ",
@@ -302,9 +302,9 @@
     "_courseOrder": "1"
   },
   {
-    "_id": "596738421568f8e516392fd4",
-    "_courseId": "5967383c1568f8e516392f7c",
-    "_parentId": "5967383c1568f8e516392f7c",
+    "_id": "599c425dc7e58f501fad3e99",
+    "_courseId": "599c425cc7e58f501fad3e3d",
+    "_parentId": "599c425cc7e58f501fad3e3d",
     "_sortOrder": 2,
     "__v": 0,
     "displayTitle": "Keep your brand strong as you grow ",
@@ -457,9 +457,9 @@
     "_courseOrder": "2"
   },
   {
-    "_id": "596738401568f8e516392fad",
-    "_courseId": "5967383c1568f8e516392f7c",
-    "_parentId": "5967383c1568f8e516392f7c",
+    "_id": "599c425cc7e58f501fad3e6f",
+    "_courseId": "599c425cc7e58f501fad3e3d",
+    "_parentId": "599c425cc7e58f501fad3e3d",
     "_sortOrder": 3,
     "__v": 0,
     "displayTitle": "What is brand equity?",

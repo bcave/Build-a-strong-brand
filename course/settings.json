@@ -1,7 +1,7 @@
 {
-  "_id": "5967383c1568f8e516392f7e",
+  "_id": "599c425cc7e58f501fad3e3f",
   "_menu": "playlistMenu",
-  "_courseId": "5967383c1568f8e516392f7c",
+  "_courseId": "599c425cc7e58f501fad3e3d",
   "__v": 1220,
   "_themeSettings": {
     "_colors": {
@@ -361,6 +361,9 @@
       "_id": "58af18c350d3bf600d233b6e"
     },
     {
+      "_id": "598c3250abd446e07f9af8c7"
+    },
+    {
       "_id": "58b0376a6faa37e7449513a9"
     },
     {
@@ -550,7 +553,7 @@
   ],
   "_extensions": [
     "progress",
-    "bookmarking",
-    "achievements"
+    "achievements",
+    "courseAttainment"
   ]
 }
